@@ -1,0 +1,3 @@
+var_a, int
+var_b, float
+var_c[10], unsigned char
